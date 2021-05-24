@@ -52,8 +52,14 @@
   - Codeforces
     - アカウント：[daikisuyama](https://codeforces.com/profile/daikisuyama)
     - 最高レート：1793
+  - AOJ
+    - アカウント：[Daiki Suyama](https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=daikisuyama)
+  - yukicoder
+    - アカウント：[daikisuyama](https://yukicoder.me/users/11092)
 
 ## 成果物
+
+
 
 ## 興味
 
@@ -65,7 +71,7 @@
 
 - Qiita
   - [Daiki Suyama](https://qiita.com/DaikiSuyama)
-    - 主に競技プログラミングや環境構築についての記事を作成
+    - 主に競技プログラミングや環境構築についての記事を作成しています。
 - Twitter
   - [Daiki Suyama](https://twitter.com/daiki_suyama)
     - 本アカウント
@@ -73,5 +79,20 @@
   - [Anonds@競プロ](https://twitter.com/Anonds3)
     - 競プロ用アカウント
     - 更新はあまりしていません。
+  - [Daiki Suyama@FX](https://twitter.com/daikisuyama_FX)
+    - FX用アカウント
+    - 休止中ですが、近いうちに動かします。
+- note
+  - [Daiki Suyama](https://note.com/daikisuyama)
+    - 備忘録的に使用する予定です。
+- facebook
+  - [Daiki Suyama](https://www.facebook.com/profile.php?id=100015783183112)
+    - 本アカウント
+    - 更新はあまりしていません。
+- Hatena Blog
+  - [daikisuyamaの日記](https://daikisuyama.hatenablog.com/)
+    - 落ち着いた頃に書き始める予定です。
+    - 趣味について色々書こうと思っています。
+   
 
 
