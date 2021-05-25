@@ -59,7 +59,17 @@
 
 ## 成果物
 
-
+- Slackbotの作成
+  - きっかけ：競技プログラミングをしていた際にコンテスト情報をチェックするのが面倒であったため。
+  - 内容：コンテストサイトからコンテスト情報をスクレイピングで取得し、Slackにて情報を流すようにした。
+  - [コードの解説記事のURL](https://qiita.com/DaikiSuyama/items/75cb81be7bad28a26a97)
+- 2020年末のアドベンカレンダーにてLenovoPRO賞を受賞@Qiita
+  - 題名：「MacでGCCを"正しく"環境構築しよう！」
+  - きっかけ：環境構築系の記事は多いものの、それぞれのコマンドの意味までを詳しく解説している記事が少ないと感じたため。
+  - [受賞記事のURL](https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146)
+- 競技プログラミングに関しての記事の作成
+  - 内容：競技プログラミングにおいて、自分の視点から各種アルゴリズムやライブラリなどについて解説。
+  - [まとめ記事のURL](https://qiita.com/DaikiSuyama/items/3ed7a7d11dcaac93540b)
 
 ## 興味
 
@@ -93,6 +103,9 @@
   - [daikisuyamaの日記](https://daikisuyama.hatenablog.com/)
     - 落ち着いた頃に書き始める予定です。
     - 趣味について色々書こうと思っています。
-   
+
+## 連絡先
+
+- utdaiki19990122@gmail.com
 
 
