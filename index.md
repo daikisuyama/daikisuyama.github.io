@@ -76,36 +76,3 @@
 現在はフロントエンドとデータサイエンスへの興味があります。
 
 将来的には起業したいと考えているので、任意の分野へアンテナを張りながら生活しています。
-
-## アカウント
-
-- Qiita
-  - [Daiki Suyama](https://qiita.com/DaikiSuyama)
-    - 主に競技プログラミングや環境構築についての記事を作成しています。
-- Twitter
-  - [Daiki Suyama](https://twitter.com/daiki_suyama)
-    - 本アカウント
-    - 更新はあまりしていません。
-  - [Anonds@競プロ](https://twitter.com/Anonds3)
-    - 競プロ用アカウント
-    - 更新はあまりしていません。
-  - [Daiki Suyama@FX](https://twitter.com/daikisuyama_FX)
-    - FX用アカウント
-    - 休止中ですが、近いうちに動かします。
-- note
-  - [Daiki Suyama](https://note.com/daikisuyama)
-    - 備忘録的に使用する予定です。
-- facebook
-  - [Daiki Suyama](https://www.facebook.com/profile.php?id=100015783183112)
-    - 本アカウント
-    - 更新はあまりしていません。
-- Hatena Blog
-  - [daikisuyamaの日記](https://daikisuyama.hatenablog.com/)
-    - 落ち着いた頃に書き始める予定です。
-    - 趣味について色々書こうと思っています。
-
-## 連絡先
-
-- utdaiki19990122@gmail.com
-
-
