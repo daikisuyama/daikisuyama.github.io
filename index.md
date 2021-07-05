@@ -2,7 +2,7 @@
 
 More explanation will be added.
 
-## Careers
+## Resume
 
 [Here](https://daikisuyama.github.io/resume)
 
